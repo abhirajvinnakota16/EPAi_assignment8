@@ -30,4 +30,4 @@ jobs:
         pip install pytest
 
     - name: Test with pytest
-      run: pytest test_code7.py -vv
+      run: pytest test_code8.py -vv
